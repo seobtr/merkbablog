@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 45.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3c53e;
+      }
+
+      .cls-2 {
+        fill: #4694f2;
+      }
+
+      .cls-3 {
+        fill: #fc0086;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        opacity: .75;
+      }
+
+      .cls-4 {
+        fill: #851cea;
+      }
+
+      .cls-5 {
+        fill: #d41ae8;
+      }
+
+      .cls-6 {
+        fill: #ef481b;
+      }
+    </style>
+  </defs>
+  <g id="Label_1" data-name="Label 1">
+    <g id="Logo">
+      <g>
+        <g>
+          <path class="cls-6" d="m29.28,17.13L19.5,0v22.68l.11.07,19.36,11.35-9.69-16.97Z"/>
+          <path class="cls-1" d="m19.5,22.82l.11-.07-.11-.07v.13Z"/>
+          <path class="cls-1" d="m9.8,16.99L0,34.15l19.49-11.33V0l-9.7,16.99Z"/>
+          <polygon class="cls-2" points="38.97 34.1 19.61 22.75 19.5 22.82 0 34.15 0 34.16 19.5 34.16 39 34.16 38.97 34.1"/>
+        </g>
+        <g>
+          <path class="cls-5" d="m14.59,25.67l4.89,8.54v-11.31l-.06-.03-9.67-5.66,4.84,8.46Z"/>
+          <path class="cls-1" d="m19.48,22.84l-.06.03.06.03v-.07Z"/>
+          <path class="cls-4" d="m24.32,25.74l4.89-8.56-9.74,5.65v11.38l4.85-8.48Z"/>
+          <polygon class="cls-3" points="9.75 17.21 19.42 22.87 19.48 22.84 29.22 17.19 29.22 17.18 19.48 17.18 9.73 17.18 9.75 17.21"/>
+        </g>
+        <g>
+          <path class="cls-5" d="m9.72,28.33l9.78,17.13v-22.68l-.11-.07L.03,11.35l9.69,16.97Z"/>
+          <path class="cls-1" d="m19.5,22.64l-.11.07.11.07v-.13Z"/>
+          <path class="cls-4" d="m29.2,28.46l9.79-17.15-19.49,11.33v22.82l9.7-16.99Z"/>
+          <polygon class="cls-3" points=".03 11.35 19.39 22.71 19.5 22.64 38.99 11.31 39 11.3 19.5 11.3 0 11.3 .03 11.35"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { Disclosure } from '@headlessui/react';
 import { MenuIcon, XIcon } from '@heroicons/react/outline';
 import Link from 'next/link';
-import Logo from '../public/assets/kyan-logo.png';
+import Logo from '../public/assets/merkaba_logo2.png';
 
 const Header = () => (
     <Disclosure as="nav">
@@ -34,7 +34,7 @@ const Header = () => (
                                             className="block h-8 md:h-12 w-auto cursor-pointer"
                                             src={Logo}
                                             alt="Flotiq"
-                                            width="138px"
+                                            width="50px"
                                             height="50px"
                                         />
                                     </a>
@@ -42,12 +42,12 @@ const Header = () => (
                             </div>
                         </div>
                         <div className="hidden md:flex items-center justify-center w-full">
-                            <h1 className="text-3xl">Blog About Everything</h1>
+                            <h1 className="text-3xl">Blog About Mushrooms</h1>
                         </div>
                         <div className="flex items-center">
                             <div className="flex-shrink-0">
                                 <Link
-                                    href="mailto:hello@flotiq.com"
+                                    href="mailto:info@merkabamushrooms.com"
                                     className="
                                         relative
                                         inline-flex
@@ -59,12 +59,12 @@ const Header = () => (
                                         underline
                                         hover:text-secondary"
                                 >
-                                    Say Hi!
+                                    Contact Us
                                 </Link>
                             </div>
                         </div>
                         <div className="md:hidden flex items-center justify-center w-full md:w-auto py-5 md:py-0">
-                            <h1 className="text-2xl">Blog About Everything</h1>
+                            <h1 className="text-2xl">Blog About All Things Mushrooms</h1>
                         </div>
                     </div>
                 </div>

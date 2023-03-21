@@ -16,7 +16,7 @@ git clone https://github.com/flotiq/flotiq-nextjs-blog-1 flotiq-nextjs-blog-1
 
 **Import example data from starter to Flotiq**
 
-```bash
+```bash 
 npm i -g flotiq-cli
 cd flotiq-nextjs-blog-1
 flotiq import . [flotiqApiKey]

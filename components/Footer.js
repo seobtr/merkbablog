@@ -2,13 +2,13 @@ import React from 'react';
 import Image from 'next/image';
 import { PoweredByFlotiq } from 'flotiq-components-react';
 import Link from 'next/link';
-import Logo from '../public/assets/kyan-logo.png';
+import Logo from '../public/assets/merkaba_logo2.png';
 
 const navigation = {
     social: [
         {
             name: 'Facebook',
-            href: 'https://www.facebook.com/flotiq',
+            href: 'https://www.facebook.com/merkabamushrooms',
             icon: (props) => (
                 <svg fill="currentColor" viewBox="0 0 13 25" {...props}>
                     <path
@@ -24,7 +24,7 @@ const navigation = {
         },
         {
             name: 'LinkedIn',
-            href: 'https://www.linkedin.com/company/flotiq/',
+            href: 'https://www.linkedin.com/company/merkabamushrooms/',
             icon: (props) => (
                 <svg fill="currentColor" viewBox="0 0 32 32" {...props}>
                     <rect y="9" width="7" height="23" />
@@ -39,7 +39,7 @@ const navigation = {
         },
         {
             name: 'Link',
-            href: 'https://flotiq.com',
+            href: 'https://merkabamushrooms.com',
             icon: (props) => (
                 <svg fill="currentColor" viewBox="0 0 26.68 11.63" {...props}>
                     <path
@@ -76,7 +76,7 @@ const Footer = () => (
                             className="block h-8 w-auto md:h-10 w-auto mr-5 md:mr-10"
                             src={Logo}
                             alt="Flotiq"
-                            width="138px"
+                            width="50px"
                             height="50px"
                         />
                     </a>
